@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Flashcards</string>
+
+    <string name="activity_create">Create</string>
+    <string name="activity_filter">Filter</string>
+    <string name="activity_viewer">Viewer</string>
+
+    <string name="main_delete_hint">Hold to Delete Flashcard Set</string>
+
+    <string name="create_hint_title">Title</string>
+    <string name="create_hint_entries">Entries (per line)</string>
+    <string name="create_hint_front_entries">Front</string>
+    <string name="create_hint_back_entries">Back</string>
+    <string name="create_button_text">Create</string>
+    <string name="create_error_empty_title">New Cardset must have a Title</string>
+    <string name="create_error_empty_entries">Front and Back must not be empty</string>
+    <string name="create_error_unbalanced_entries">Front and Back must have matching amount of Entries</string>
+    <string name="create_error_front">front entries</string>
+    <string name="create_error_back">back entries</string>
+
+
+    <string name="filter_button_text">Filter</string>
+
+    <string name="cardset_default_title">Default</string>
+    <string name="cardset_default_f1">Front</string>
+    <string name="cardset_default_f2">7 – 4</string>
+    <string name="cardset_default_f3">2 * 32</string>
+    <string name="cardset_default_f4">5 + 3 * 2</string>
+    <string name="cardset_default_b1">Back</string>
+    <string name="cardset_default_b2">3</string>
+    <string name="cardset_default_b3">64</string>
+    <string name="cardset_default_b4">11</string>
+
+    <string name="content_description_flip">Flip Flashcard</string>
+    <string name="content_description_right">Right</string>
+    <string name="content_description_left">Left</string>
+    <string name="content_description_random">Shuffle Flashcards</string>
+    <string name="content_description_filter_button">Filter Flashcard Sets</string>
+    <string name="content_description_create_button">Create New Flashcard Set</string>
+    <string name="content_description_create_title">Input Title</string>
+    <string name="content_description_create_front">Input Front Entries</string>
+    <string name="content_description_create_back">Input Back Entries</string>
+</resources>
